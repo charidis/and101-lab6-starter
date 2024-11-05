@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='./ScreenRecording2024-11-04at10.24.00PM-ezgif.com-video-to-gif-converter.gif' title='Video Demo' width='500px' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
